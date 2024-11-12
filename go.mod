@@ -1,4 +1,4 @@
-module github.com/Nyuuk/learn-gin-golang
+module github.com/Nyuuk/learn-api-golang
 
 go 1.23.0
 

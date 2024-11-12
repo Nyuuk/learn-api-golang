@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	// "fmt"
-	"github.com/Nyuuk/learn-gin-golang/helpers"
+	"github.com/Nyuuk/learn-api-golang/helpers"
 )
 
 func main() {
